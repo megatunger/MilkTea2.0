@@ -6,3 +6,5 @@ Notes: The blue bar on the right shows you current speed.
 - The higher level, the more milk tea cup will drop. This makes game more difficult.
 - Update some funky background music, boring has gone :)
 - Girls will talk to you now, let's find their funny quotes.
+
+[![](http://img.youtube.com/vi/Iy9n64fZoP8/0.jpg)](http://www.youtube.com/watch?v=Iy9n64fZoP8 "")
